@@ -39,5 +39,5 @@ To run this project on your local machine, follow these steps:
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone [https://github.com/yourusername/diabetes-prediction-knn.git](https://github.com/Akash815355/Predict-Diabetes.git)
-cd diabetes-prediction-knn
+git clone https://github.com/Akash815355/Predict-Diabetes.git
+cd Predict-Diabetes
